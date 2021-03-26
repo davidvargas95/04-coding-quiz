@@ -11,6 +11,13 @@
   Test you knowledge of JavaScript with this short quiz. It consists of five multiple choice questions. Each wrong answer will deduct from your score by ten points! When you answer the last questions or run out of time, the game is over. Enter your initials to log your scores!
 
   --
+
+  ## Images
+
+  <img src="./assets/images/Capture.png" style="width: 450px;"> <br>
+  <img src="./assets/images/Capture2.png" style="width: 450px;">
+
+  --
   ## Installation
   There are no installations required.
 
