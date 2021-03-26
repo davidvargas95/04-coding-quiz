@@ -135,12 +135,12 @@ function userScore() {
   startQuiz.innerHTML = "";
 
   var resultsH1 = document.createElement("h1");
-  resultsH1.textContent = "Finished!";
+  resultsH1.textContent = "Nice Work";
   startQuiz.appendChild(resultsH1);
 
   var resultsP = document.createElement("p");
   var resultsBr = document.createElement("br");
-  resultsP.textContent = "Your final score is: " + (score + seconds);
+  resultsP.textContent = "Your score is: " + (score + seconds);
   startQuiz.appendChild(resultsP, resultsBr);
 
   var resultForm = document.createElement("FORM");

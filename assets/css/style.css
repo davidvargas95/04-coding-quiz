@@ -6,6 +6,7 @@ body {
     display: flex;
     justify-content: space-between;
     width: 100%;
+    font-size: 25px;
 }
 
 #beginGame {
@@ -16,3 +17,61 @@ body {
     margin: auto;
 }
 
+h1 {
+  font-size: 35px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+}
+
+h2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+}
+
+li {
+  font-size: 30px;
+  border: 2px solid white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+}
+
+li button {
+  display: flex;
+  flex-direction: row;
+  background-color: green;
+  color: white;
+  font-size: large;
+  padding: 20px;
+  width: 30em;
+}
+
+p {
+  color: black;
+  font-size: 25px;
+}
+
+button {
+  color: white;
+  background-color: green;
+  border-radius: 10%;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+}
+
+ol {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+}
